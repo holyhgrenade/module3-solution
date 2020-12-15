@@ -1,0 +1,65 @@
+
+
+
+.navbar-brand h1{
+  color: black;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.67;
+}
+#header-nav{
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+  border: 1px solid black;
+  padding: 0;
+}
+
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 1px solid black;
+}
+#nav-list li {
+  margin: -1px;
+  color: #000;
+  text-align: center;
+  font-size: 2em;
+  line-height: normal;
+}
+
+.list-element{
+  border: 1px solid black;
+  background-color: lightblue;
+}
+
+.navbar-collapse{
+  border: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+#menu-title{
+  text-align: center;
+  margin-top: 0px;
+}
+
+.title{
+  font-weight: bold;
+}
+
+.menu-container{
+  margin: 20px 10px 20px 10px;
+  padding: 10px;
+  background-color: grey;
+  color: black;
+}
+.row{
+  margin: 20px;
+}
+
